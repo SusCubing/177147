@@ -3,7 +3,7 @@ A derivitive of Gabriele Cirulli's 2048
 [Play original here!](http://gabrielecirulli.github.io/2048/)
 
 In this derivitive, each tile multiplies by three instead of two.
-[Play new version here!](http://suscubing.github.io/2048/)
+[Play new version here!](http://suscubing.github.io/177147/)
 
 Everything below this is Cirulli's original readme
 
