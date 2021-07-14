@@ -163,8 +163,8 @@ GameManager.prototype.move = function (direction) {
           // Converge the two tiles' positions
           tile.updatePosition(positions.next);
 
-          // More complex scoring algorithm
-          self.score += Math.round(merged.value/7+3);
+          // Update the score
+          self.score += merged.value;
 
           // The mighty 177147 tile
           if (merged.value === 177147) self.won = true;
